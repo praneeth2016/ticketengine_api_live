@@ -89,6 +89,7 @@ public class DbLogic {
 		// System.out.println(key+ip);
 		// System.out.println(DbLogic.class.getName());
 		int i = 0;
+		
 		int a = 0;
 		// int isip = 0;
 		DbConnection database = new DbConnection();
